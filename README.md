@@ -21,4 +21,6 @@ Analysis of Diabetic Retinopathy: A comprehensive investigation into factors inf
 
 ## Project Preview :
 
-<img src="Images/DB_diagram.png">
+<img src="Images/Data-set.png">
+<img src="Images/Data-set.png">
+<img src="Images/Data-set.png">
